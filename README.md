@@ -1,2 +1,2 @@
 # shaper
-Traffic-Shaper zur Banbreitenaufteilung und zum Schutz des Videostreams
+Traffic-Shaper zur dynamischen Bandbreitenaufteilung, zum Schutz des Videostreams
